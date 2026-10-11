@@ -66,7 +66,4 @@ To adapt the project for health insurance, use authoritative insurance policy PD
 - Compare different embedding models and chunking strategies.
 - Introduce human feedback and additional evaluation methods.
 
-## Author
-**Name:** Your Name  
-**GitHub:** Your GitHub Profile URL  
-**LinkedIn:** Your LinkedIn Profile URL
+
